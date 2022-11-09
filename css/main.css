@@ -1,0 +1,22 @@
+body{
+    margin-top: 0;
+}
+.table-title{
+    margin-bottom: 20px;
+}
+.btn1{
+    padding-top: 0;
+    width: 45px;
+    height: 25px;
+    border-radius: 50px;
+}
+.btn2{
+    padding-top: 0;
+    width: 50px;
+    height: 25px;
+    border-radius: 50px;
+}
+.card-footer{
+    border-top: 2px solid #ff0000;
+    text-align: end;
+}
